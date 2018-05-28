@@ -1,0 +1,23 @@
+{
+  "ExecutionResults": {
+    "Specs": {
+      "SPC001_LaunchAndInstallTestSpec": {
+        "launch and verify that oasis is not connected to ethereum": {
+          "result": "PASSED",
+          "message": "N/A",
+          "stackTrace": "N/A"
+        },
+        "install chrome extension metamask and verify that account is created": {
+          "result": "PASSED",
+          "message": "N/A",
+          "stackTrace": "N/A"
+        },
+        "refresh and verify that oasis is functioning": {
+          "result": "PASSED",
+          "message": "N/A",
+          "stackTrace": "N/A"
+        }
+      }
+    }
+  }
+}
